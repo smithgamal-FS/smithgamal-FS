@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey everyone 👋
+
+My name is Gamal, people often call me G. I'm currently enrolled at Full Sail University in the Web Development program. I'm scheduled to complete my bachelors
+November 2027. I'm looking forward to entering the Tech field and also creating my own projects. Currently I'm very deep into audio production with FL Studio and Logic being my primary DAWs. One of my future goals is to create software in the audio and video production worlds. This profile will be mainly schoolwork, as I learn to get my footing togther in coding. My first outside project will be a portfolio site showcasing the music and media I've created so far. 
+
+I'm always open to advice and mentorship to develop into the best version of myself. This journey into development has been a long time coming and is starting to materialize with every class I attend. I'm passionate to be a part of creating solutions of quality and care. Thank you for stopping by!
+
 
 <!--
 **smithgamal-FS/smithgamal-FS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
